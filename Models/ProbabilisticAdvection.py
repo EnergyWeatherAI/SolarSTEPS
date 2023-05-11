@@ -3,7 +3,7 @@ import numpy as np
 from multiprocessing import Pool
 
 
-class AdvectionModel(object):
+class ProbabilisticAdvection(object):
 
     def __init__(self,
                  ens_members=25,
