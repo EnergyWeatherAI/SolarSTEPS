@@ -8,5 +8,4 @@ We recommend to download the model and run in a Python 3.9 environment, 3.10 sho
 To make the proababilistic forecast reproducible, the ensemble members are assigned with a seed as shown in Forecast.ipynb.
 
 ![](https://github.com/albertocarpentieri/SolarSTEPS/blob/main/SS_movie.gif)
-
 On the left a 1-hour lead time probabilistic forecast with SolarSTEPS and on the right the correspondent satellite-derived images. The pixels represent the probability of having a clear sky (yellowish).
